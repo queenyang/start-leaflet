@@ -1,0 +1,28 @@
+<kml>
+  <Document>
+    <Schema id="RiverMap.schema"/>
+    <Document>
+      <name>RiverMap</name>
+      <Placemark>
+        <name>下载范围</name>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                143.602696228027,35.3644303902923,0
+                143.363743591308,35.2355390620951,0
+                143.561497497558,35.0761032974419,0
+                143.793583679199,35.2288086638012,0
+                143.742771911621,35.3532306002655,0
+                143.73041229248,35.3397888018265,0
+                143.722172546386,35.3386685510002,0
+                143.722172546386,35.3386685510002,0
+                143.602696228027,35.3644303902923,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
